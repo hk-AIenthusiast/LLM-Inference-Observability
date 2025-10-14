@@ -5,6 +5,4 @@ __pycache__/
 *.ipynb_checkpoints
 
 # Data
-data/*.csv
-results/*.json
 .env

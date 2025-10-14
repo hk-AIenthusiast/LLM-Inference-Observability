@@ -1,0 +1,39 @@
+timestamp,model,prompt_length,response_length,latency_sec,prompt,output
+2025-08-17T16:10:04.854916,llama3,3,93,8.81,Hi.,"Hi! It's nice to meet you. Is there something I can help you with, or would you like to chat?..."
+2025-08-17T16:10:06.670704,llama3,3,96,0.809,Hi.,"Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?..."
+2025-08-17T16:10:08.486487,llama3,3,96,0.81,Hi.,"Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?..."
+2025-08-17T16:10:24.509696,llama3,38,2014,15.017,Explain the process of photosynthesis.,"Photosynthesis! It's the magical process by which plants, algae, and some bacteria convert sunlight ..."
+2025-08-17T16:10:39.189130,llama3,38,1893,13.673,Explain the process of photosynthesis.,"Photosynthesis! It's a crucial process that allows plants to convert sunlight into energy, which ult..."
+2025-08-17T16:10:56.608584,llama3,38,2275,16.414,Explain the process of photosynthesis.,"Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from th..."
+2025-08-17T16:11:14.009859,llama3,67,2820,16.396,Write a detailed 4-paragraph essay about the causes of World War I.,"The complex and multifaceted causes of World War I can be traced back to the late 19th century, when..."
+2025-08-17T16:11:29.296296,llama3,67,2430,14.281,Write a detailed 4-paragraph essay about the causes of World War I.,"The outbreak of World War I in 1914 was the result of a complex web of alliances, imperialism, and n..."
+2025-08-17T16:11:46.203694,llama3,67,2734,15.901,Write a detailed 4-paragraph essay about the causes of World War I.,The outbreak of World War I in 1914 was the result of a complex set of factors that had been buildin...
+2025-08-17T16:12:12.873538,llama3,72,3991,25.665,Describe a method to simulate an LLM’s latency under constrained memory.,"A great question!
+
+Large Language Models (LLMs) are designed to process and generate human-like text..."
+2025-08-17T16:12:34.714281,llama3,72,3243,20.836,Describe a method to simulate an LLM’s latency under constrained memory.,"A very interesting question!
+
+When an Large Language Model (LLM) is deployed in production, it may f..."
+2025-08-17T16:12:55.081553,llama3,72,2816,19.361,Describe a method to simulate an LLM’s latency under constrained memory.,Simulating the latency of a Large Language Model (LLM) under constrained memory is essential for eva...
+2025-08-17T16:26:07.686051,mistral,3,115,1.175,True,Hi.," Hello! How can I help you today? If you have any questions or need assistance, feel free to ask. I'm here to help."
+2025-08-17T16:26:11.876516,mistral,3,425,3.184,False,Hi.," Hello! How can I assist you today? If you have any questions or need help with something, feel free to ask.
+
+For exampl…"
+2025-08-17T16:26:13.238926,mistral,3,33,0.358,False,Hi., Hello! How can I help you today?
+2025-08-17T16:26:33.457268,mistral,38,2472,19.215,False,Explain the process of photosynthesis.," Photosynthesis is a fundamental biological process used by plants, algae, and some bacteria to convert light energy, us…"
+2025-08-17T16:26:59.862471,mistral,38,3140,25.4,False,Explain the process of photosynthesis.," Photosynthesis is a fundamental biological process that most plants, algae, and some bacteria use to convert carbon dio…"
+2025-08-17T16:27:19.561656,mistral,38,2219,18.692,False,Explain the process of photosynthesis.," Photosynthesis is a vital process by which green plants, algae, and some bacteria convert light energy, usually from th…"
+2025-08-17T16:27:38.481895,mistral,67,2644,17.916,False,Write a detailed 4-paragraph essay about the causes of World War I.," Title: The Causes of World War I: A Multi-Faceted Analysis
+
+The complex genesis of World War I can be attributed to a c…"
+2025-08-17T16:28:04.740103,mistral,67,3494,25.251,False,Write a detailed 4-paragraph essay about the causes of World War I.," Title: The Causes of World War I: A Comprehensive Analysis
+
+Paragraph 1: Overview and Initial Tensions
+
+The outbreak of…"
+2025-08-17T16:28:22.843057,mistral,67,2473,17.098,False,Write a detailed 4-paragraph essay about the causes of World War I.," Title: The Causes of World War I: A Complex Web of Factors
+
+The complexities of World War I's origins are rooted in a m…"
+2025-08-17T16:28:36.419653,mistral,72,1868,12.569,False,Describe a method to simulate an LLM’s latency under constrained memory.," To simulate the latency of a Large Language Model (LLM) like me, under constrained memory conditions, you can follow th…"
+2025-08-17T16:28:55.482859,mistral,72,2258,18.056,False,Describe a method to simulate an LLM’s latency under constrained memory., Simulating the latency of a Large Language Model (LLM) under constrained memory can be achieved by implementing techniq…
+2025-08-17T16:29:25.518393,mistral,72,3492,29.028,False,Describe a method to simulate an LLM’s latency under constrained memory., Simulating the latency of a Large Language Model (LLM) under constrained memory can be achieved by artificially limitin…

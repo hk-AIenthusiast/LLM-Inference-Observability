@@ -1,0 +1,9 @@
+metric,prompt_id,cold_start,p50,p95
+ttft_ms,medium,False,73.2,78.5
+ttft_ms,medium,True,669.3,854.7
+ttft_ms,short,False,72.2,77.9
+ttft_ms,short,True,661.5,2631.4
+latency_ms,medium,False,6136.2,6259.6
+latency_ms,medium,True,6718.0,6912.4
+latency_ms,short,False,1805.5,2416.1
+latency_ms,short,True,2440.9,4451.5
