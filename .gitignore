@@ -1,0 +1,10 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data
+data/*.csv
+results/*.json
+.env
